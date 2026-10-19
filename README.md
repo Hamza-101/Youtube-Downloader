@@ -228,7 +228,3 @@ They are probably already listed in `Completed.json`. Remove an entry from there
 
 Sites change often. Update the downloader engine: `pip install -U yt-dlp`.
 </details>
-
-## Legal
-
-This tool is for personal and educational use. Only download content you own or have permission to download, and respect the terms of service of the sites you use and applicable copyright law.
